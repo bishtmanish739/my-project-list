@@ -1,6 +1,6 @@
 {
   "name": "my-project-list",
-  "homepage": "https://bishtmanish739.github.io/my-project-list/build",
+  "homepage": "https://bishtmanish739.github.io/my-project-list/build/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
